@@ -1,7 +1,5 @@
 ### Testing phylogenetic signal
 
-##read in mydata created from other file this has all the traits and all the climate
-
 require(dplyr)
 require(tidyr)
 require(ggtree)
